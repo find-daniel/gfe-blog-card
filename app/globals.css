@@ -23,6 +23,7 @@ body {
     rgba(249, 250, 251, 1),
     rgba(210, 214, 219, 1)
   );
+  -webkit-font-smoothing: antialiased;
 }
 
 * {
