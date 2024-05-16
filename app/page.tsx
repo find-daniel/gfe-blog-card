@@ -32,7 +32,7 @@ export default function Home() {
             same time.
           </p>
           {/* Button/CTA */}
-          <button className="-m-1 px-0.5 py-0.5 text-indigo-700 hover:text-indigo-800 focus-visible:rounded-md focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-indigo-600/[.12] disabled:text-neutral-400">
+          <button className="-m-0.5 px-0.5 py-0.5 text-indigo-700 hover:text-indigo-800 focus-visible:rounded-md focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-indigo-600/[.12] disabled:text-neutral-400">
             Read more{" "}
             <RiArrowRightLine
               className="ml-1 inline-block align-text-top"
